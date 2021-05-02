@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Smart Home</string>
+    <string name="tab_text_1">Display</string>
+    <string name="tab_text_2">Control</string>
+</resources>
